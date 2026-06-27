@@ -6,7 +6,7 @@ const CACHE_NAME = 'robs-movil-v1';
 
 // Recursos que se cachean en la instalación inicial
 const ASSETS_TO_CACHE = [
-  './robs_movil.html',
+  './index.html',
   './manifest.json',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
