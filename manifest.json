@@ -2,7 +2,7 @@
   "name": "ROBS MOVIL",
   "short_name": "ROBS",
   "description": "Plataforma de transporte ROBS MOVIL",
-  "start_url": "./robs_movil.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0d0d0d",
   "theme_color": "#00e676",
