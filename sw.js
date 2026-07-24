@@ -4,7 +4,7 @@
    y cache-first para assets estáticos (iconos, fuentes, libs).
 ════════════════════════════════════════════════════════════ */
 
-const CACHE_VERSION = "robsmovil-v1.0.0";
+const CACHE_VERSION = "robsmovil-v1.0.1";
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
